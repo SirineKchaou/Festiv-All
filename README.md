@@ -1,4 +1,4 @@
-# hub
+# Festiv-All
 
 A new Flutter project.
 
