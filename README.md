@@ -1,6 +1,6 @@
 # Festiv-All
 
-A new Flutter project.
+Plongez dans le monde de la gestion de projets avec notre application Flutter. Cette solution intuitive offre une plateforme robuste pour organiser, suivre et collaborer sur divers projets. Grâce à une interface conviviale et des fonctionnalités avancées, les utilisateurs peuvent créer, attribuer des tâches, suivre les progrès et communiquer efficacement, simplifiant ainsi la gestion globale des projets. Que vous soyez un professionnel travaillant sur plusieurs projets ou une équipe cherchant à optimiser sa productivité, notre application Flutter pour la gestion de projets vous offre la flexibilité et les outils nécessaires pour réussir.
 
 ## Getting Started
 
